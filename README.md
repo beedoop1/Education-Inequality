@@ -10,4 +10,5 @@ There are two data sets being used. The primary data set is the Edgap data set f
 Our second data set includes basic information about each school from the National Center for Education Statistics.
 
 Link to EdGap: https://www.edgap.org/#6/37.886/-96.868
+
 Link to the National Center for Education Statistics: https://nces.ed.gov/ccd/pubschuniv.asp
